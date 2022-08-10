@@ -1,6 +1,6 @@
 # BlendWeb
 
-8/8/2022
+8/8/2022.
 Rodrigo Llaguno
 
 Personal Website for 
