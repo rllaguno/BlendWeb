@@ -1,0 +1,34 @@
+<!DOCTYPE html> defines that this document is an HTML5 document
+<html> root element
+<head> meta information about the HTML
+<title> title for the HTML page
+<body> document's body
+<h> heading (h1 ... h6)
+<p> paragraph
+<a> links, href = links destination (<a href=link>text</a>)
+<img> images, src=source file, alt= alernative text, width, height
+<br> line break
+All HTML elements can have attributes
+<style> add styles to an element, such as color, font, size,
+
+<hr> thematic break, horizontal rule
+<pre> preformatted text, preserves spaces and lines
+
+Style
+background-color: bc
+color txt: color
+font-family: font
+font-size: size
+text-align: txt align
+
+Element Formatting
+<b> : Bold text
+<strong> : Important text
+<i> : Italic text
+<em> : Emphasized text
+<mark> : Marked text
+<small> : Smaller text
+<del> : Deleted text
+<ins> : Inserted text
+<sub> : Subscript text
+<sup> : Superscript text
