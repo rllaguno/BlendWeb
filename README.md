@@ -4,6 +4,6 @@
 Rodrigo Llaguno
 
 Personal Website for 
-- Practice HTML, JS, CSS
+- Practicing HTML, JS, CSS
 - Creating a Website
 - Showing my Blender renders
