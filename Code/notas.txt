@@ -32,3 +32,35 @@ Element Formatting
 <ins> : Inserted text
 <sub> : Subscript text
 <sup> : Superscript text
+<!-- Write your comments here --> Comentario
+
+Color
+colores cool: tomato, orange, dodgerblue, mediumSeaGreen, Violet, LightGray, Gray, SlateBlue
+Se puede poner background color a todos los elementos
+Igual para text color y border color
+Se puede poner color con rgb, hex y nombre 
+Exp Colores: https://www.w3schools.com/html/html_colors_rgb.asp
+
+CSS
+Inline: Add style to single element
+ <h1 style="color:blue;">A Blue Heading</h1>
+Internal: Define style for a single HTML page
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+External: Define style for many HTML pages, external file (.css)
+html ->
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+css ->
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+}
+class="" se crea clase en css para poner en elemento (clase empieza con .)
